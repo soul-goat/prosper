@@ -17,7 +17,7 @@
 **🖥 界面模式说明**
 1️⃣ 极简模式（默认启动）
 
-![Uploading image.png…]()
+<img width="351" height="481" alt="image" src="https://github.com/user-attachments/assets/3dd5263a-4b87-4590-aa45-0a92479958d6" />
 
 
 适合 日常盯盘 / 后台常驻 使用。
