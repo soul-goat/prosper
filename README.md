@@ -181,3 +181,6 @@ JSON 本地存储
 
 首次使用请在 完整版 中添加基金
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/cseroad/Exp-Tools.svg?variant=adaptive)](https://starchart.cc/cseroad/Exp-Tools)
+
